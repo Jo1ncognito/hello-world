@@ -1,2 +1,8 @@
 # hello-world
-Lettuce See
+ 
+ Lettuce See  
+ 
+ Lettuce Sit
+ 
+ Lettuce Eat
+
